@@ -71,12 +71,6 @@ Explore my repositories for projects involving backend engineering, full-stack d
 - ⚙️ **Backend Engineering** — REST APIs, database optimization, and scalable services
 - ☁️ **Cloud & Automation** — Cloud functions, integrations, and serverless workflows
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitbora&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitbora&layout=compact&hide_border=true)
-
 ## 🤝 Let's Connect
 
 I'm always interested in discussing software architecture, backend engineering, cloud technologies, and practical applications of Generative AI.
