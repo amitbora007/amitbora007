@@ -62,6 +62,8 @@ I'm particularly interested in bridging traditional software engineering with mo
 - Learning how MCP connects AI models with external tools and services
 - Designing reliable AI applications with meaningful real-world use cases
 
+![Total Commits](https://img.shields.io/github/commit-activity/t/USERNAME/REPOSITORY?style=for-the-badge&logo=git&logoColor=white)
+
 ## 📌 Featured Projects
 
 Explore my repositories for projects involving backend engineering, full-stack development, cloud integrations, and AI-powered applications.
