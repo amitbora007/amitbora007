@@ -77,12 +77,12 @@ A few projects that represent the kind of systems I enjoy building.
 **AI & developer tooling**
 
 <p>
-  <a href="https://claude.ai/" title="Claude"><img src="https://cdn.simpleicons.org/anthropic/CC785C" width="48" height="48" alt="Claude" style="background-color:#242938;border-radius:12px;padding:10px" /></a>
-  <a href="https://github.com/features/copilot" title="GitHub Copilot"><img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" height="48" alt="GitHub Copilot" style="background-color:#242938;border-radius:12px;padding:10px" /></a>
-  <a href="https://gemini.google.com/" title="Gemini"><img src="https://cdn.simpleicons.org/googlegemini/8E9BFF" width="48" height="48" alt="Gemini" style="background-color:#242938;border-radius:12px;padding:10px" /></a>
-  <a href="https://chatgpt.com/" title="ChatGPT"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="ChatGPT" style="background-color:#242938;border-radius:12px;padding:10px" /></a>
+  <img src="https://skillicons.dev/icons?i=linux,vscode" height="48" alt="Linux and Visual Studio Code" />
+  <a href="https://claude.ai/" title="Claude"><img src="https://cdn.simpleicons.org/anthropic/CC785C" width="48" height="48" alt="Claude" /></a>
+  <a href="https://github.com/features/copilot" title="GitHub Copilot"><img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" height="48" alt="GitHub Copilot" /></a>
+  <a href="https://gemini.google.com/" title="Gemini"><img src="https://cdn.simpleicons.org/googlegemini/8E9BFF" width="48" height="48" alt="Gemini" /></a>
+  <a href="https://chatgpt.com/" title="ChatGPT"><img src="https://cdn.simpleicons.org/chatgpt/FFFFFF" width="48" height="48" alt="ChatGPT" /></a>
 </p>
-<img src="https://skillicons.dev/icons?i=linux,vscode" alt="Linux and VS Code" />
 
 </div>
 
