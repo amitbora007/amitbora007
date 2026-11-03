@@ -78,6 +78,7 @@ Explore my repositories for projects involving backend engineering, full-stack d
 
 I'm always interested in discussing software architecture, backend engineering, cloud technologies, and practical applications of Generative AI.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A7E8C?style=for-the-badge&logo=vercel&logoColor=white)](https://amitbora.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitbora007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitbora2/)
 
