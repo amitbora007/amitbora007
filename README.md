@@ -1,87 +1,118 @@
-# Hi there, I'm Amit Bora 👋
+<div align="center">
 
-### Senior Software Engineer | Backend Engineering | Cloud & Generative AI
+<img src="./assets/profile-banner.svg" alt="Amit Bora — Senior Software Engineer" width="100%" />
 
-I'm a Senior Software Engineer with **6+ years of experience** building scalable backend systems, REST APIs, cloud-based applications, and fintech integrations. I enjoy solving complex engineering problems, optimizing system performance, and exploring how Generative AI can make software smarter and more useful.
+<a href="https://amitbora.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/amitbora2/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:amitbora007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- 🔭 **Currently exploring:** Generative AI, RAG pipelines, AI agents, and Model Context Protocol (MCP)
-- 💻 **Core expertise:** Backend engineering, API development, system optimization, and cloud architecture
-- ☁️ **Cloud technologies:** AWS and Microsoft Azure
-- 🤖 **AI interests:** LLM applications, LangGraph, vector search, and intelligent automation
-- 🎯 **Focus:** Building reliable, maintainable, and production-ready software
-- 🤝 **Open to:** Collaborating on backend engineering, cloud and AI-powered projects
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=8B9CFB&center=true&vCenter=true&width=760&lines=Building+reliable+backend+systems;Designing+cloud-native+applications;Exploring+Generative+AI+and+agentic+workflows;Turning+complex+problems+into+practical+software" alt="Animated engineering focus" />
 
-## 🛠️ Tech Stack
-
-### Languages & Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases & Data Technologies
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud, DevOps & AI
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-## 🚀 What I Work On
+## About
 
-- **Backend Engineering:** Designing scalable REST APIs, modular services, and maintainable application architectures.
-- **Performance Optimization:** Improving SQL queries, database operations, API response times, and resource utilization.
-- **Fintech Integrations:** Developing payment workflows, partner integrations, and reliable transaction-processing systems.
-- **Cloud Engineering:** Building and maintaining cloud-based applications and serverless integrations.
-- **Generative AI:** Exploring LLM-powered applications, RAG architectures, vector search, and AI-driven automation.
-- **Full-Stack Development:** Building user-facing applications with React and integrating them with robust backend services.
+I'm a **Senior Software Engineer with 6+ years of experience** building backend platforms, APIs, cloud applications and fintech integrations. I enjoy working across the stack—from data models and distributed workflows to intuitive user experiences—and I'm actively exploring practical applications of Generative AI.
 
-## 🧠 Current Learning & Exploration
+- **Engineering:** Backend architecture, REST APIs, integrations, performance and reliability
+- **Full-stack:** Python, PHP, Node.js, React and modern web application development
+- **Cloud & data:** AWS, Azure, SQL Server, PostgreSQL, MongoDB and Redis
+- **AI exploration:** LLM applications, RAG, vector search, agents and MCP
 
-I'm particularly interested in bridging traditional software engineering with modern AI systems.
+## Selected work
 
-- Building practical LLM-powered applications
-- Implementing Retrieval-Augmented Generation (RAG) and vector search
-- Exploring LangGraph and agentic workflows
-- Learning how MCP connects AI models with external tools and services
-- Designing reliable AI applications with meaningful real-world use cases
+A few projects that represent the kind of systems I enjoy building.
 
-[![GitHub Commits Badge](https://ghcommits.com/api/badge/amitbora007.svg)](https://ghcommits.com/u/amitbora007)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitbora007/p2p-file-transfer">P2P File Transfer</a></h3>
+      <p>Browser-to-browser file transfer across different networks, built around WebRTC data channels, signaling and resilient chunked streaming.</p>
+      <p><sub>WebRTC · React · Node.js · DataChannel</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitbora007/vigilapi">VigilAPI</a></h3>
+      <p>A serverless endpoint-monitoring platform with scheduled checks, PostgreSQL coordination, alerting and a responsive analytics dashboard.</p>
+      <p><sub>React · Supabase · PostgreSQL · Edge Functions</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitbora007/amit-portfolio">Personal Portfolio</a></h3>
+      <p>A responsive engineering portfolio with interactive project case studies, an AI assistant and a serverless contact workflow.</p>
+      <p><sub>React · Tailwind CSS · Framer Motion · Vercel</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitbora007/cyberintelix">CyberIntelix</a></h3>
+      <p>A responsive cybersecurity web experience featuring service pages, animated interactions and a modern visual identity.</p>
+      <p><sub>React · Vite · Framer Motion</sub></p>
+    </td>
+  </tr>
+</table>
 
-## 📌 Featured Projects
+<div align="center">
+  <a href="https://amitbora.vercel.app/"><b>Explore all projects and case studies on my portfolio →</b></a>
+</div>
 
-Explore my repositories for projects involving backend engineering, full-stack development, cloud integrations, and AI-powered applications.
+## Technology toolkit
 
-<!-- Replace these placeholders with your actual public repository names and links. -->
+<div align="center">
 
-- 🤖 **AI & GenAI Projects** — LLM applications, RAG, vector search, and intelligent automation
-- ⚙️ **Backend Engineering** — REST APIs, database optimization, and scalable services
-- ☁️ **Cloud & Automation** — Cloud functions, integrations, and serverless workflows
+**Languages & backend**
 
-## 🤝 Let's Connect
+<img src="https://skillicons.dev/icons?i=python,php,nodejs,js,laravel,django" alt="Python, PHP, Node.js, JavaScript, Laravel and Django" />
 
-I'm always interested in discussing software architecture, backend engineering, cloud technologies, and practical applications of Generative AI.
+**Frontend & application development**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A7E8C?style=for-the-badge&logo=vercel&logoColor=white)](https://amitbora.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitbora007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitbora2/)
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" alt="React, HTML, CSS, Bootstrap and Tailwind" />
 
----
+**Data, cloud & engineering tools**
 
-*Building scalable systems. Exploring intelligent software. Learning continuously.* 🚀
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,azure,docker,git,github" alt="MySQL, PostgreSQL, MongoDB, Redis, AWS, Azure, Docker, Git and GitHub" />
+
+**AI & developer tooling**
+
+<img src="https://skillicons.dev/icons?i=openai,linux,vscode" alt="OpenAI, Linux and VS Code" />
+
+</div>
+
+## GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amitbora007&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbora007&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used languages" />
+  <br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=amitbora007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <br/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=amitbora007&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</div>
+
+## Contribution journey
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitbora007/amitbora007/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitbora007/amitbora007/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/amitbora007/amitbora007/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<sub>The contribution animation is generated daily by GitHub Actions. It appears after the workflow runs successfully for the first time.</sub>
+
+## Let's connect
+
+I'm interested in thoughtful engineering conversations, backend and cloud architecture, developer tooling, and practical AI applications.
+
+<div align="center">
+  <a href="https://amitbora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-amitbora.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
+  <a href="https://github.com/amitbora007"><img src="https://img.shields.io/badge/GitHub-amitbora007-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/amitbora2/"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Bora-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
+</div>
+
+<div align="center">
+  <sub>Building dependable systems · Learning continuously · Exploring what's next</sub>
+</div>
