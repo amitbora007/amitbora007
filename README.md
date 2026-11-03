@@ -89,9 +89,10 @@ A few projects that represent the kind of systems I enjoy building.
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitbora007&theme=tokyonight" alt="GitHub statistics card" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitbora007&theme=tokyonight" alt="Most used languages by repository" />
   <br/>
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitbora007&theme=tokyonight" alt="GitHub contribution activity summary" />
-  <br/>
   <img width="70%" src="https://streak-stats.demolab.com?user=amitbora007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <br/>
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitbora007&theme=tokyonight" alt="GitHub contribution activity summary" />
+
 </div>
 
 ## Contribution journey
