@@ -77,7 +77,8 @@ A few projects that represent the kind of systems I enjoy building.
 **AI & developer tooling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,claude,githubcopilot,gemini,chatgpt&theme=dark" height="48" alt="Linux, Visual Studio Code, Claude, GitHub Copilot, Gemini and ChatGPT" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode&theme=dark" height="48" alt="Linux and Visual Studio Code" />
+  <img src="./assets/ai-tools-icons.svg" width="216" height="48" alt="Claude, GitHub Copilot, Gemini and ChatGPT" />
 </p>
 
 </div>
