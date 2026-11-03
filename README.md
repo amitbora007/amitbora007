@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a **Senior Software Engineer with 6+ years of experience** building backend platforms, APIs, cloud applications and fintech integrations. I enjoy working across the stack—from data models and distributed workflows to intuitive user experiences—and I'm actively exploring practical applications of Generative AI.
+I'm a **Senior Software Engineer with 7+ years of experience** building backend platforms, APIs, cloud applications and fintech integrations. I enjoy working across the stack—from data models and distributed workflows to intuitive user experiences—and I'm actively exploring practical applications of Generative AI.
 
 - **Engineering:** Backend architecture, REST APIs, integrations, performance and reliability
 - **Full-stack:** Python, PHP, Node.js, React and modern web application development
