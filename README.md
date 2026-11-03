@@ -77,10 +77,10 @@ A few projects that represent the kind of systems I enjoy building.
 **AI & developer tooling**
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <a href="https://claude.ai/" title="Claude"><img src="https://cdn.simpleicons.org/anthropic/CC785C" width="48" height="48" alt="Claude" style="background-color:#242938;border-radius:12px;padding:10px" /></a>
+  <a href="https://github.com/features/copilot" title="GitHub Copilot"><img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" height="48" alt="GitHub Copilot" style="background-color:#242938;border-radius:12px;padding:10px" /></a>
+  <a href="https://gemini.google.com/" title="Gemini"><img src="https://cdn.simpleicons.org/googlegemini/8E9BFF" width="48" height="48" alt="Gemini" style="background-color:#242938;border-radius:12px;padding:10px" /></a>
+  <a href="https://chatgpt.com/" title="ChatGPT"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="ChatGPT" style="background-color:#242938;border-radius:12px;padding:10px" /></a>
 </p>
 <img src="https://skillicons.dev/icons?i=linux,vscode" alt="Linux and VS Code" />
 
