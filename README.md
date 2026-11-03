@@ -2,10 +2,10 @@
 
 <img src="./assets/profile-banner.svg" alt="Amit Bora — Senior Software Engineer" width="100%" />
 
-<a href="https://amitbora.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/amitbora2/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.credly.com/users/amit.bora/badges/credly"><img src="https://img.shields.io/badge/CREDLY-View%20certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly certifications" /></a>
-<a href="mailto:amitbora007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://amitbora.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/amitbora2/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.credly.com/users/amit.bora/badges/credly"><img src="https://img.shields.io/badge/CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly certifications" /></a>
+<a href="mailto:amitbora007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/>
 
