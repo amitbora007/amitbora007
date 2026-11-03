@@ -47,9 +47,9 @@ A few projects that represent the kind of systems I enjoy building.
       <p><sub>React · Tailwind CSS · Framer Motion · Vercel</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amitbora007/cyberintelix">CyberIntelix</a></h3>
-      <p>A responsive cybersecurity web experience featuring service pages, animated interactions and a modern visual identity.</p>
-      <p><sub>React · Vite · Framer Motion</sub></p>
+      <h3><a href="https://github.com/amitbora007/testblind-ai">TestBlind AI</a></h3>
+      <p>An AI-powered software testing platform combining mutation testing, LLM-generated regression tests, incident-to-test workflows and isolated code execution.</p>
+      <p><sub>Python · FastAPI · React · TypeScript · PostgreSQL · Docker</sub></p>
     </td>
   </tr>
 </table>
@@ -76,19 +76,25 @@ A few projects that represent the kind of systems I enjoy building.
 
 **AI & developer tooling**
 
-<img src="https://skillicons.dev/icons?i=openai,linux,vscode" alt="OpenAI, Linux and VS Code" />
+<p>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+</p>
+<img src="https://skillicons.dev/icons?i=linux,vscode" alt="Linux and VS Code" />
 
 </div>
 
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amitbora007&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbora007&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitbora007&theme=tokyonight" alt="GitHub statistics card" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitbora007&theme=tokyonight" alt="Most used languages by repository" />
+  <br/>
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitbora007&theme=tokyonight" alt="GitHub contribution activity summary" />
   <br/>
   <img width="70%" src="https://streak-stats.demolab.com?user=amitbora007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-  <br/>
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=amitbora007&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </div>
 
 ## Contribution journey
