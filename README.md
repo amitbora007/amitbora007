@@ -77,11 +77,7 @@ A few projects that represent the kind of systems I enjoy building.
 **AI & developer tooling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,vscode" height="48" alt="Linux and Visual Studio Code" />
-  <a href="https://claude.ai/" title="Claude"><img src="https://img.shields.io/badge/Claude-242938?style=for-the-badge&logo=anthropic&logoColor=CC785C" height="48" alt="Claude" /></a>
-  <a href="https://github.com/features/copilot" title="GitHub Copilot"><img src="https://img.shields.io/badge/Copilot-242938?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF" height="48" alt="GitHub Copilot" /></a>
-  <a href="https://gemini.google.com/" title="Gemini"><img src="https://img.shields.io/badge/Gemini-242938?style=for-the-badge&logo=googlegemini&logoColor=8E9BFF" height="48" alt="Gemini" /></a>
-  <a href="https://chatgpt.com/" title="ChatGPT"><img src="https://img.shields.io/badge/ChatGPT-242938?style=for-the-badge&logo=openai&logoColor=FFFFFF" height="48" alt="ChatGPT" /></a>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,claude,githubcopilot,gemini,chatgpt&theme=dark" height="48" alt="Linux, Visual Studio Code, Claude, GitHub Copilot, Gemini and ChatGPT" />
 </p>
 
 </div>
