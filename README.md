@@ -64,7 +64,7 @@ A few projects that represent the kind of systems I enjoy building.
 
 **Languages & backend**
 
-<img src="https://skillicons.dev/icons?i=python,php,nodejs,js,laravel,django" alt="Python, PHP, Node.js, JavaScript, Laravel and Django" />
+<img src="https://skillicons.dev/icons?i=python,php,nodejs,js,graphql,laravel,django" alt="Python, PHP, Node.js, JavaScript, GraphQL, Laravel and Django" />
 
 **Frontend & application development**
 
