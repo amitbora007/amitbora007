@@ -9,7 +9,7 @@ I'm a Senior Software Engineer with **6+ years of experience** building scalable
 - ☁️ **Cloud technologies:** AWS and Microsoft Azure
 - 🤖 **AI interests:** LLM applications, LangGraph, vector search, and intelligent automation
 - 🎯 **Focus:** Building reliable, maintainable, and production-ready software
-- 🤝 **Open to:** Collaborating on backend engineering, cloud, and AI-powered projects
+- 🤝 **Open to:** Collaborating on backend engineering, cloud and AI-powered projects
 
 ---
 
